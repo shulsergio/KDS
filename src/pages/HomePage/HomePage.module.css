@@ -1,0 +1,18 @@
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+.logo {
+  border-radius: 50%;
+  color: blue;
+}
+h1 {
+  font-style: 26px;
+  font-weight: bold;
+  color: aqua;
+}
+p {
+  font-style: 26px;
+  font-weight: bold;
+  color: aqua;
+}
